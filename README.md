@@ -1,0 +1,5 @@
+- 👋 Olá, me chamo Rezani
+- 👀 Essa é minha conta para trabalhos e divulgações
+- 🌱 Estou aqui para aprender, por isso havera alguns erros
+- 💞️ Estou aberto para dicas ou melhoras nos meus sistemas
+- 📫 Caso goste de mim ou queira falar sobre trabalhos e serviços, meu instagram é @ryanrezani.
