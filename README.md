@@ -14,7 +14,7 @@ Experimentos e protótipos de estudos que compartilho para receber feedback
 📚 Objetivo:
 Evoluir como desenvolvedor júnior, colaborar em projetos reais e compartilhar meu aprendizado com a comunidade.
 
-🤝 Vamos nos conectar?
+🤝 Vamos conversar ?
 
 Estou aberto a feedbacks, dicas e oportunidades de colaboração
 
