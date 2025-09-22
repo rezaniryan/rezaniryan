@@ -11,6 +11,7 @@ Aqui você vai encontrar meus projetos e estudos nas áreas de desenvolvimento d
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="RyanCar" height="270" width="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmh6ZjZ1dzQ2czFsenN2NWd3ZWlmMWo5N3BmZDY4Z3o5emk3MmU4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiN0kXtfp6YEuoxm8/giphy.gif"
 </div>
   
   ##
