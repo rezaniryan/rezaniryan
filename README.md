@@ -1,20 +1,22 @@
-🚀 Fala Ae Doutor! Beleza  👋
+🚀 Fala Ae Doutor(a)! Beleza  👋
 
 Sou Ryan Rezani (Rezani), estudante de ADS (FACENS).
 Aqui você vai encontrar meus projetos e estudos nas áreas de desenvolvimento de software, automação de processos e análise de dados.
+##
 
+<img align="right" alt="RyanCar" height="216" width="245" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmh6ZjZ1dzQ2czFsenN2NWd3ZWlmMWo5N3BmZDY4Z3o5emk3MmU4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiN0kXtfp6YEuoxm8/giphy.gif">
+
+<h3 align="left"> Stacks </h3>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="RyanCar" height="270" width="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmh6ZjZ1dzQ2czFsenN2NWd3ZWlmMWo5N3BmZDY4Z3o5emk3MmU4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiN0kXtfp6YEuoxm8/giphy.gif"
+  <img align="center" alt="RyanJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="RyanHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="RyanCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="RyanPython" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="RyanSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="RyanJava" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
   
-  ##
+
 
 <h3 align="left"> Contatos </h3>
 <div>
@@ -23,7 +25,7 @@ Aqui você vai encontrar meus projetos e estudos nas áreas de desenvolvimento d
   <a href = "mailto:cancelaryanrezani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-
+##
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rezaniryan/rezaniryan/output/github-contribution-grid-snake-dark.svg">
