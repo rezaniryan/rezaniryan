@@ -4,7 +4,7 @@ Sou Ryan Rezani (Rezani), estudante de ADS (FACENS).
 Aqui você vai encontrar meus projetos e estudos nas áreas de desenvolvimento de software, automação de processos e análise de dados.
 ##
 
-<img align="right" alt="RyanCar" height="216" width="245" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmh6ZjZ1dzQ2czFsenN2NWd3ZWlmMWo5N3BmZDY4Z3o5emk3MmU4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiN0kXtfp6YEuoxm8/giphy.gif">
+<img align="right" alt="RyanCar" height="200" width="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmh6ZjZ1dzQ2czFsenN2NWd3ZWlmMWo5N3BmZDY4Z3o5emk3MmU4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiN0kXtfp6YEuoxm8/giphy.gif">
 
 <h3 align="left"> Stacks </h3>
 <div style="display: inline_block"><br>
