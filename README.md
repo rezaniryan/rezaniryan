@@ -1,6 +1,6 @@
 🚀 Fala Ae Doutor(a)! Beleza  👋
 
-Sou Ryan Rezani (Rezani), estudante de ADS (FACENS).
+Sou Ryan Cancela (Rezani), estudante de ADS (FACENS).
 Aqui você vai encontrar meus projetos e estudos nas áreas de desenvolvimento de software, automação de processos e análise de dados.
 ##
 
