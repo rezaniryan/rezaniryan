@@ -20,6 +20,6 @@ Estou aberto a feedbacks, dicas e oportunidades de colaboração
 
 Me envie uma mensagem no LinkedIn ou Instagram para trocarmos ideias
 
-LinkedIn | Instagram
+LinkedIn: Ryan rezani | Instagram: @ryanrezani
 
  
