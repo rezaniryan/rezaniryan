@@ -1,12 +1,21 @@
-🚀 Fala Ae Doutor(a)! Beleza  👋
+<h3>🚀 Fala Ae Doutor(a)! Beleza 👋 </h3>
 
 Sou Ryan Cancela (Rezani), estudante de ADS (FACENS).
 Aqui você vai encontrar meus projetos e estudos nas áreas de desenvolvimento de software, automação de processos e análise de dados.
+
+##
+
+<div>
+  <a href="https://github.com/rezaniryan">
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaniryan&layout=compact&langs_count=16&theme=tokyonight"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=rezaniryan&show_icons-true&theme=tokyonight&include_all_commits=true&count_private-true"/>
+</div>
+
 ##
 
 <img align="right" alt="RyanCar" height="207" width="229" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmh6ZjZ1dzQ2czFsenN2NWd3ZWlmMWo5N3BmZDY4Z3o5emk3MmU4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiN0kXtfp6YEuoxm8/giphy.gif">
 
-<h3 align="left"> Stacks </h3>
+<h3 align="left"> 💾 Stacks. </h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="RyanJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="RyanHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,7 +27,7 @@ Aqui você vai encontrar meus projetos e estudos nas áreas de desenvolvimento d
   
 
 
-<h3 align="left"> Contatos </h3>
+<h3 align="left"> 📇 Contatos. </h3>
 <div>
     <a href="https://www.linkedin.com/in/ryan-rezani-1b907b2bb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ryanrezani" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
